@@ -1,3 +1,6 @@
+// Vuochlang Chang
+// 02/12/2020
+
 #include <stdio.h>
 #include <stdlib.h>
 #include<ctype.h>
