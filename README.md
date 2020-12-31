@@ -28,4 +28,7 @@ _ Then the program will output back the following :
     _ A / B: elements belongs to A but doesn't belongs to B
 
 # PA2:
+
 write a program to test Goldbach's Conjecture: the conjecture that any even integer>4 can be written as the sum of two odd primes
+
+_ The program will ask for a starting even number and how many (even) numbers to test and try to write out all the even numbers as the sum of two primes
